@@ -1,11 +1,11 @@
-## CICUS STAFF
+# CICUS STAFF
 
 Sistema di tag per gli staff con ruolo e nome 
 
-# ⚙️・Requisti
-  - Es_extended
+## ⚙️・Requisti
+- [esx framework](https://github.com/mitlight/es_extended)
 
-# 🟥・Cosa è ? 
+## 🟥・Cosa è ? 
 
  - Questo sistema include il tag di uno staff tramite 3dText
  - Appare sopra alla testa del player
@@ -13,11 +13,11 @@ Sistema di tag per gli staff con ruolo e nome
  - Configurabile tramite label e color tutti i vari ruoli
  - Totalmente customizabile dal config
 
-# 📩・Supporto
-Se ci sono dei bug da segnalare apri ticket sul mio server discord: Cicus Development o anche per ricevere supporto
+## 📩・Supporto
+Se ci sono dei bug da segnalare apri ticket sul mio server discord: [Cicus Development](https://discord.gg/wmW8Nxuh) o anche per ricevere supporto
 
 
-# Copyright
+## Copyright
 
 Copyright © 2024 CICUS DEVELOPMENT This README file includes all the necessary sections: 
 documentation link, requirements with hyperlinks, instructions for cloning the GitHub repository, 
